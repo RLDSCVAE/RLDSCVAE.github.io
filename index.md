@@ -11,3 +11,5 @@ Reinforcement Learning with Decoupled State Representation based on the Robot Co
 ![GIF](https://github.com/RLDSCVAE/RLDSCVAE.github.io/blob/main/RLDS-last-2m.gif)
 
 <img src="https://github.com/RLDSCVAE/RLDSCVAE.github.io/blob/main/RLDS-last-2m.gif" alt="zigzag" />
+
+<img src="https://github.com/RLDSCVAE/RLDSCVAE.github.io/blob/main/RLDS-last-2m.gif" width=1000>
