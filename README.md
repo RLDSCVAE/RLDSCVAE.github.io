@@ -3,5 +3,5 @@ Reinforcement Learning with Decoupled State Representation based on the Robot Co
 
 [https://rldscvae.github.io/](https://rldscvae.github.io/)
 
-[Video](https://github.com/RLDSCVAE/RLDSCVAE.github.io/blob/main/RLDS-2M.mp4)
+[Video](https://github.com/RLDSCVAE/RLDSCVAE.github.io/blob/main/RLDS-last-2m.mp4)
 
