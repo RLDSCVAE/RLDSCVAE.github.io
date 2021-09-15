@@ -1,1 +1,4 @@
+url: 'https://rldscvae.github.io/' # your main domain
+baseurl: 'rldscvae.github.io/' # if you're using custom domain keep this blank example: baseurl: ''
+
 theme: jekyll-theme-slate
